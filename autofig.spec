@@ -30,7 +30,8 @@ Narzêdzie do automatycznego generowanie skryptów *-config.
 %install
 rm -rf $RPM_BUILD_ROOT
 
-%{__make} install DESTDIR=$RPM_BUILD_ROOT
+%{__make} install \
+	DESTDIR=$RPM_BUILD_ROOT
 
 rm -f samples/Makefile*
 
