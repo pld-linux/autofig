@@ -7,6 +7,7 @@ License:	?
 Group:		Development/Tools
 # origins from GNOME CVS?
 Source0:	http://autotrace.sourceforge.net/tools/%{name}.tar.gz
+# Source0-md5:	864f4729560bdc2c0eabfd3857a557e2
 BuildRequires:	autoconf
 Requires:	m4
 Requires:	sed
