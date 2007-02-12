@@ -1,5 +1,5 @@
 Summary:	Automatic *-config scripts generation
-Summary(pl):	Automatyczne generowanie skryptów *-config
+Summary(pl.UTF-8):   Automatyczne generowanie skryptÃ³w *-config
 Name:		autofig
 Version:	0.1
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Utility for automatic *-config scripts generation.
 
-%description -l pl
-Narzêdzie do automatycznego generowanie skryptów *-config.
+%description -l pl.UTF-8
+NarzÄ™dzie do automatycznego generowanie skryptÃ³w *-config.
 
 %prep
 %setup -q
