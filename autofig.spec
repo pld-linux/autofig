@@ -1,5 +1,5 @@
 Summary:	Automatic *-config scripts generation
-Summary(pl.UTF-8):   Automatyczne generowanie skryptów *-config
+Summary(pl.UTF-8):	Automatyczne generowanie skryptów *-config
 Name:		autofig
 Version:	0.1
 Release:	1
